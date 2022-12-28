@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![Atharva's GitHub stats](https://github-readme-stats.vercel.app/api?username=PHOENIXHEIR)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **PHOENIXHEIR/PHOENIXHEIR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
