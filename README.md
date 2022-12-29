@@ -1,7 +1,7 @@
 ### Hi there 👋
 [![Atharva's GitHub stats](https://github-readme-stats.vercel.app/api?username=PHOENIXHEIR&show_icons=true&theme=midnight-purple)]
 
-<img src="assest/ATHARVA BALPANDe.gif" width="1000" height="400"/>
+<img src="asset/ATHARVA BALPANDe.gif"/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PHOENIXHEIR&layout=compact&theme=midnight-purple)]
 <!--
