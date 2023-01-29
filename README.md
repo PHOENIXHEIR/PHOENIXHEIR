@@ -31,6 +31,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atharva-balpande-4b5336228/)
 [![Twitch](https://img.shields.io/badge/TWITCH-6441a5?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/phoenix_heir/)
-</p>
+
