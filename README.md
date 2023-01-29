@@ -24,7 +24,6 @@ h3 align="center">A passionate frontend developer from India</h3>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=phoenixheir&show_icons=true&locale=en" alt="phoenixheir" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=phoenixheir&" alt="phoenixheir" /></p>
 
 
 
