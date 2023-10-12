@@ -1,4 +1,6 @@
 <h3 align="center">A passionate frontend developer from India</h3>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="atharva-balpande" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/atharva-balpande?trk=profile-badge">Atharva Balpande</a></div>
+              
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phoenixheir&label=Profile%20views&color=0e75b6&style=flat" alt="phoenixheir" /> </p>
 
@@ -8,7 +10,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/atharva-balpande/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/atharva-balpande/" height="30" width="40" /></a>
 </p>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="atharva-balpande" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/atharva-balpande?trk=profile-badge">Atharva Balpande</a></div>
+
               
 
 <h3 align="left">Languages and Tools:</h3>
